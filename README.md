@@ -563,3 +563,9 @@ Run the project. You should see a 3D model with two buttons and a joystick as sh
 
 ##### Figure 3. A 3D model with a joystick and two buttons
 ![mobile game with joystick](https://dl.dropboxusercontent.com/u/107789379/CGDemy/blogimages/joystickWithWeapon.png "Joystick in a mobile game")
+
+###Credits
+[Harold Serrano](http://www.haroldserrano.com) Author of this repository and post
+
+###Questions
+If you have any questions about this repository, feel free to contact me at http://www.haroldserrano.com/contact/
