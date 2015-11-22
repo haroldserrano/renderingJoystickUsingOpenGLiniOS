@@ -293,7 +293,7 @@ void Character::setTransformation(){
     
     //8. set the Projection-Perspective space with a 45 degree field of view and an aspect ratio
     //of width/heigh. The near a far clipping planes are set to 0.1 and 100.0 respectively
-    projectionSpace = GLKMatrix4MakePerspective(GLKMathDegreesToRadians(45.0f), fabsf(screenWidth/screenHeight), 0.1f, 100.0f);
+    projectionSpace = GLKMatrix4MakePerspective(GLKMathDegreesToRadians(30.0f), fabsf(screenWidth/screenHeight), 0.1f, 100.0f);
     
     
     //9. Transform the model-world-view space to the projection space

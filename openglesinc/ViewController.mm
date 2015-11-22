@@ -32,8 +32,6 @@
     
     glViewport(0, 0, view.frame.size.height, view.frame.size.width);
     
-    //4. This will call the rendering method glkView 60 Frames per second
-    view.enableSetNeedsDisplay=60.0;
     
     //5. Make the newly created context the current context.
     [EAGLContext setCurrentContext:self.context];
